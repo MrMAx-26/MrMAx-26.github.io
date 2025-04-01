@@ -16,7 +16,8 @@ h1 {
 }
 
 body {
-    background: Snow;
+    font-family: Noto Sans;
+    background-image: url("https://i.pinimg.com/originals/15/28/85/15288504d9b005cfce8a0111e59a3264.jpg");
 }
 .a h2 {
     font-size: 35px;
