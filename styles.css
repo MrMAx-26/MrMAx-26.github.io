@@ -2,8 +2,8 @@ header {
     color: blue;
     font-size: 60px;
     margin-top: 80px;
-    margin-left: 80px;
-    padding-right: 1400px;
+    margin-left: 800px;
+    padding-right: 700px;
     text-align: left;
 }
 
@@ -12,11 +12,13 @@ h1 {
     margin-left: 80px;
     margin-top: -10px;
     font-size: 30px;
+    margin-left: 800px;
+    padding-right: 700px;
     padding-bottom: 120px;
 }
 
 body {
-    font-family: Arial;
+    font-family: Noto Sans;
     background-image: url("https://i.pinimg.com/originals/15/28/85/15288504d9b005cfce8a0111e59a3264.jpg");
 }
 .a h2 {
