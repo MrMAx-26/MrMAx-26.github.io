@@ -1,5 +1,53 @@
 header {
     color: blue;
-    text-align: center;
-    font-size: 100px;
+    font-size: 60px;
+    margin-top: 80px;
+    margin-left: 80px;
+    padding-right: 1400px;
+    text-align: left;
+}
+
+h1 {
+    color: black;
+    margin-left: 80px;
+    margin-top: -10px;
+    font-size: 30px;
+    padding-bottom: 120px;
+}
+
+body {
+    background: Snow;
+}
+.a h2 {
+    font-size: 35px;
+    color: blue;
+    margin-left: 80px;
+    padding-top: 60px;
+}
+
+.a p {
+    font-size: 25px;
+    margin-top: -15px;
+    margin-left: 80px;
+    padding-right: 1000px;
+}
+
+.a ul {
+    font-size: 25px;
+    margin-top: -15px;
+    margin-left: 80px;
+    padding-right: 1000px;
+}
+.b h2 {
+    color: blue;
+    margin-left: 600px;
+    font-size: 35px;
+    margin-left: 1150px;
+    margin-top: -866px;
+}
+
+.work p {
+    font-size: 25px;
+    margin-left: 1150px;
+    margin-top: -15px;
 }
